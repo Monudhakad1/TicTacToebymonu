@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm an **aspiring software engineer** and a **B.E. student
 ## 💻 Coding Achievements  
 
 - ✅ **Solved 200+ problems** on LeetCode  
-- ⭐ **1200+ rating** on CodeChef, aiming higher every day  
+- ⭐ **1350+ rating** on CodeChef, aiming higher every day  
 
 ---
 
