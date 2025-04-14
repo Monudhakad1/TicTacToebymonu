@@ -7,9 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=monudhakad1&style=flat-square&color=blue" alt="Profile Views"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/monudhakad1/ai-tic-tac-toe">
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/monudhakad1/ai-tic-tac-toe">
-  <img alt="License" src="https://img.shields.io/github/license/monudhakad1/ai-tic-tac-toe">
 </p>
 
 ---
