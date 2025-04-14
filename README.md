@@ -1,79 +1,48 @@
 <h1 align="center">🤖 AI Tic-Tac-Toe Game</h1>
 
 <p align="center">
-  <b>Play against a smart AI in your browser!</b><br>
+  <b>Play against an unbeatable AI in your browser!</b><br>
   Built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.ai-tic-tac-toe" alt="visitor badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/your-username/ai-tic-tac-toe">
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/your-username/ai-tic-tac-toe">
-  <img alt="License" src="https://img.shields.io/github/license/your-username/ai-tic-tac-toe">
+  <img src="https://komarev.com/ghpvc/?username=monudhakad1&style=flat-square&color=blue" alt="Profile Views"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/monudhakad1/ai-tic-tac-toe">
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/monudhakad1/ai-tic-tac-toe">
+  <img alt="License" src="https://img.shields.io/github/license/monudhakad1/ai-tic-tac-toe">
 </p>
 
 ---
 
 ## 🎮 Overview
 
-This is a **Tic-Tac-Toe game** where the player challenges an **AI** opponent powered by the **Minimax Algorithm**. The interface is sleek and responsive, and the gameplay works on all modern browsers and devices.
+This is a **Tic-Tac-Toe game** where you can challenge a smart **AI opponent** that uses the **Minimax Algorithm**. It works smoothly on both desktop and mobile devices.
 
 ---
 
 ## ✨ Features
 
-- 🧠 AI player that never loses (Minimax-based)
-- 🎨 Attractive UI with smooth transitions
-- 🕹️ Keyboard + Mouse controls
-- 📱 Mobile Responsive
-- ⚡ Lightweight and fast
-
----
-
-## 💻 Tech Stack
-
-- **Frontend**: HTML, CSS (Flexbox & Grid)
-- **Logic**: Vanilla JavaScript
-- **AI Logic**: Minimax Algorithm with optimization
-
----
-
-## 🏅 Achievements
-
-### 🔥 LeetCode
-
-- ✅ 250+ Problems Solved  
-- 💪 Strong skills in Trees, Graphs, DP, Greedy, Recursion  
-- 🎯 Regular Contest Participant  
-
-### 🏁 CodeChef
-
-- ⭐ 3⭐ Coder  
-- ✅ 100+ Problems Solved  
-- 🧠 Active in Long Challenges and Starters
-
----
-
-## 📚 DSA Skills
-
-- Arrays, Strings, Linked Lists  
-- Stack, Queue, HashMaps  
-- Trees, Binary Search Trees, Heaps  
-- Graphs (BFS, DFS, Dijkstra)  
-- Dynamic Programming & Greedy  
-- Backtracking, Bit Manipulation
+- 🧠 **Unbeatable AI** using the Minimax algorithm
+- 🎨 **Clean and responsive UI** with smooth transitions
+- 🕹️ **Supports both Mouse & Keyboard** inputs
+- 📱 **Mobile-friendly design**
+- ⚡ **Lightweight & fast loading**
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [Play Now on GitHub Pages](https://your-username.github.io/ai-tic-tac-toe/)
+👉 [Click here to Play Now](https://monudhakad1.github.io/ai-tic-tac-toe/)
 
 ---
 
-## 🖼️ Screenshots
+## 🧰 Tech Stack
 
-> _Add your screenshots or gameplay GIFs here_
+| Technology | Description |
+|------------|-------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Structure and layout of the game |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Styling and responsive design |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Game logic and AI using Minimax |
 
 ---
 
@@ -81,7 +50,7 @@ This is a **Tic-Tac-Toe game** where the player challenges an **AI** opponent po
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-tic-tac-toe.git
+git clone https://github.com/monudhakad1/ai-tic-tac-toe.git
 
 # Go into the project directory
 cd ai-tic-tac-toe
